@@ -18,7 +18,7 @@
 |---|---|---|
 | [**Codemit**](https://codemit.kr) | 상금 공모전 플랫폼 · AI 채점 강의실 | Django · Next.js · Celery · PostgreSQL |
 | [**Daypage**](https://daypage.sandcorp.co.kr) | 링크 하나로 함께 쓰는 하루 노트 | Django Channels · Yjs CRDT · React · Tiptap |
-| [**AI Trend News**](https://news.sandcorp.co.kr) | AI 편집자가 만드는 한국어 뉴스 | Django · React · Claude · MCP |
+| [**Foresight(포사이트)**](https://news.sandcorp.co.kr) | AI 편집자가 만드는 한국어 뉴스와 전망 | Django · React · Claude · MCP |
 | [**Sandcorp 플랫폼**](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=personal) | 포트폴리오·제안서 시스템과 통합 로그인 | Django · React · OAuth 2.1 · MCP |
 
 👉 프로젝트 상세는 [sandcorp.co.kr](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=personal)의 포트폴리오에 정리해 두었습니다.
