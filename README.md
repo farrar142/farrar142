@@ -2,7 +2,7 @@
 
 ### 안녕하세요, 김한얼입니다 👋
 
-**기획부터 운영까지, 한 사람이 끝까지 책임지는 1인 개발사**
+**직접 만든 서비스 4개를 지금도 운영합니다. 그 방식 그대로 당신의 제품을 만듭니다.**
 
 1인 개발사 [**샌드코프**](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=personal)를 운영하며 서비스를 직접 만들고, 직접 굴립니다.
 
