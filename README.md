@@ -2,7 +2,7 @@
 
 ### 안녕하세요, 김한얼입니다 👋
 
-**직접 만든 서비스 4개를 지금도 운영합니다. 그 방식 그대로 당신의 제품을 만듭니다.**
+**직접 만든 서비스들을 지금도 운영합니다. 그 방식 그대로 당신의 제품을 만듭니다.**
 
 1인 개발사 [**샌드코프**](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=personal)를 운영하며 서비스를 직접 만들고, 직접 굴립니다.
 
@@ -16,10 +16,11 @@
 
 | 서비스 | 한 줄 소개 | 키워드 |
 |---|---|---|
-| [**Codemit**](https://codemit.kr) | 상금 공모전 플랫폼 · AI 채점 강의실 | Django · Next.js · Celery · PostgreSQL |
+| [**Codemit**](https://classroom.codemit.kr/join/VZjs9MCS-1mhrwiM_JBhUA) | AI가 즉시 채점하는 강의실 | Django · Next.js · Celery · PostgreSQL |
 | [**Daypage**](https://daypage.sandcorp.co.kr) | 링크 하나로 함께 쓰는 하루 노트 | Django Channels · Yjs CRDT · React · Tiptap |
 | [**Foresight(포사이트)**](https://news.sandcorp.co.kr) | AI 편집자가 만드는 한국어 뉴스와 전망 | Django · React · Claude · MCP |
 | [**Sandcorp 플랫폼**](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=personal) | 포트폴리오·제안서 시스템과 통합 로그인 | Django · React · OAuth 2.1 · MCP |
+| [**Sandcorp Flow**](https://flow.sandcorp.co.kr) | 흐름으로 만드는 상담 챗봇 플랫폼 | Django · React · LangGraph · pgvector |
 
 👉 프로젝트 상세는 [sandcorp.co.kr](https://sandcorp.co.kr?utm_source=github&utm_medium=readme&utm_campaign=personal)의 포트폴리오에 정리해 두었습니다.
 
@@ -27,7 +28,6 @@
 
 - [**ai-secretary**](https://github.com/farrar142/ai-secretary) — LangGraph 기반 AI VTuber 에이전트. STT·TTS·OCR·YOLO, Elasticsearch 기억, Kafka 채팅 수집
 - [**drss**](https://github.com/farrar142/drss) — RSS와 CSS 셀렉터 스크래핑을 합친 피드 플랫폼 (Django · Celery · Playwright · Next.js · Expo)
-- [**embed-chat**](https://github.com/sandcorporation/embed-chat) — 멀티테넌트 GraphRAG 챗봇 SaaS (pgvector · LangGraph · Transactional Outbox)
 - [**farrar142-examples**](https://github.com/orgs/farrar142-examples/repositories) — 강의·멘토링용 예제 모음 (Spring AI · RAG · MCP · Elasticsearch · WebSocket …)
 
 #### 🛠️ 기술 스택
